@@ -1,27 +1,142 @@
-👩‍💻 About Me: <br><br>
-🔭 I’m currently working on:<br>SAP ABAP development with a focus on RAP models, CDS views, and backend logic for S/4HANA systems; building SAPUI5 & Fiori applications with real-world enterprise use cases. <br><br>👯 I’m looking to collaborate on:<br>SAP Fiori/UI5 applications, ABAP Cloud (RAP) projects, and SAP BTP-based enterprise solutions where clean architecture and performance actually matter.<br><br>🤝 I’m looking for help with:<br>Advanced RAP optimizations, large-scale SAPUI5 app structuring, and best practices for production-grade SAP BTP deployments.<br><br>🌱 I’m currently learning:<br>Advanced SAP ABAP Cloud (RAP), SAP BTP services, and strengthening problem-solving through data structures and algorithms. <br><br>💬 Ask me about:<br>SAP ABAP, SAPUI5, SAP Fiori, RAP & CDS, S/4HANA, MVC architecture, or building CRUD-heavy enterprise applications.<br><br>⚡ Fun fact:<br>I’m a certified SAP Back-End Developer while still pursuing my B.Tech — most people learn SAP after college; I didn’t wait.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Riya%20Gaur&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=SAP%20Backend%20Developer%20%7C%20ABAP%20Cloud%20%7C%20S%2F4HANA%20%7C%20B.Tech&descAlignY=56&descSize=16&descColor=c9d1e0" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riya-gaur-3a2938287) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaurriya1611@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=riyaa1611&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=riyaa1611&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riyaa1611&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=riyaa1611&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riya%20Gaur-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-gaur-3a2938287)&nbsp;
+[![Email](https://img.shields.io/badge/Email-gaurriya1611%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gaurriya1611@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=riyaa1611&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=riyaa1611&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About
+
+SAP-certified backend developer and B.Tech student specializing in enterprise-grade systems on the SAP ecosystem. I work across **ABAP Cloud (RAP)**, **CDS Views**, and **SAPUI5/Fiori** — building backend logic and front-end applications for real S/4HANA environments with a focus on clean architecture and production performance.
+
+Most people discover SAP after graduation. I didn't wait.
+
+---
+
+### What I'm Working On
+
+| Area | Details |
+|------|---------|
+| **Active Development** | RAP models, CDS views, and backend logic for S/4HANA; SAPUI5 & Fiori applications with enterprise use cases |
+| **Currently Learning** | Advanced ABAP Cloud (RAP), SAP BTP services, Data Structures & Algorithms |
+| **Open to Collaboration** | SAP Fiori/UI5 apps, ABAP Cloud (RAP) projects, SAP BTP enterprise solutions where architecture and performance actually matter |
+| **Looking for Input On** | Advanced RAP optimizations, large-scale SAPUI5 app structuring, production-grade SAP BTP deployments |
+
+---
+
+### Certifications
+
+<div align="center">
+
+| Certification | Issuer | Focus Area |
+|--------------|--------|------------|
+| **SAP Certified Associate — Back-End Developer** | SAP | ABAP Cloud, RAP, S/4HANA Extensibility |
+
+</div>
+
+> Earned while actively pursuing a B.Tech degree — not after it.
+
+---
+
+### Tech Stack
+
+**SAP Ecosystem**
+
+![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAPUI5](https://img.shields.io/badge/SAPUI5-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![CDS Views](https://img.shields.io/badge/CDS%20Views-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![RAP](https://img.shields.io/badge/RAP%20Model-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![S/4HANA](https://img.shields.io/badge/S%2F4HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Backend & Frameworks**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+
+**Data & Machine Learning**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**DevOps, Tools & Platforms**
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=riyaa1611&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaa1611&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=riyaa1611&theme=tokyonight&hide_border=true" height="150"/>
+
+</div>
+
+---
+
+### Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyaa1611&theme=tokyo-night&hide_border=true&area=true&area_color=302b63" />
+
+</div>
+
+---
+
+<div align="center">
+<sub>Certified SAP Back-End Developer &nbsp;·&nbsp; B.Tech in Progress &nbsp;·&nbsp; Ask me about SAP ABAP, SAPUI5, Fiori, RAP, CDS, S/4HANA, or CRUD-heavy enterprise applications</sub>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+</div>
